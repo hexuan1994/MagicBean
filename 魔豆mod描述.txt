@@ -1,0 +1,42 @@
+[h1]The magic bean[/h1]
+
+added seven the magic beans!the only way to get the magic beans was defeat the four seasons boss.Basicly,every boss can drop more than one magic bean,and if u were so luckly,u can defeat one boss and get all of seven beans~
+
+each beans can give you character different temporary buffer,and if u eat 3 same beans,u can got a PERMANENT BUFFER!u can press u in your game and input #bean or #douzi to cheak you beans(numbers and type).
+
+[h1][b]beans of sport:[/b][/h1]
+[i]temp buffer:[/i]ATK increased one times,3 days keep,cant overlay.
+[i]permanent buffer:[/i]20% increased your speed
+
+[h1][b]beans of happy:[/b][/h1]
+[i]temp buffer:[/i]defense 80% damage,can overlay with armour,5 days
+[i]pemanent buffer:[/i]defense 60% damage,can overlay with armour
+
+[h1][b]beans of light:[/b][/h1]
+[i]temp buffer:[/i]just like eat Light Bulb,but have 10 days keep
+[i]pemanent buffer:[/i]never damage from fire and high temperature forever
+
+[h1][b]beans of intelligence:[/b][/h1]
+[i]temp buffer:[/i]san regeneration,10 days.
+[i]pemanent buffer:[/i]got 50 point of san-MAX
+
+[h1][b]beans of food:[/b][/h1]
+[i]temp buffer:[/i]decreased hunger 80%,10 days.
+[i]permanent buffer:[/i]got 50 point of hunger-MAX。
+
+[h1][b]beans of love:[/b][/h1]
+[i]temp buffer:[/i]got health regeneration,10 days.
+[i]permanent buffer:[/i]got 50 point of HP-MAX,cant frozen forever.
+
+[h1][b]beans of greed:[/b][/h1]
+dont have a good idear...
+
+attention:
+1.every beans just follow you character,it means if you change your character,every things restart.
+2.if you died,the buffer was stop count temporary.next day will recount,or you can just reconnect to start it.
+3.support cave and multiply world.
+
+this is my first time to make mod,and if it have some bugs,please leave a massage for me and i wiil repair it asap,thank you~
+by the way,thanks for everyone who helps me to finished this mods.
+
+Thanks @chard_knight for translating. 
